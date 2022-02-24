@@ -1,5 +1,5 @@
 # gaussian-singularities
-*Expected lengths of singular contours of Gaussian random maps.*
+*Expected length of singular contours of Gaussian random maps.*
 
 Mathematica notebooks accompanying the paper [Singularities of Gaussian random maps into the plane](https://arxiv.org/abs/2202.08242).
 
